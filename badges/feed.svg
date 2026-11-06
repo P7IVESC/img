@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="71" height="20" role="img" aria-label="FEED: RSS">
+<title>FEED: RSS</title>
+<rect width="39" height="20" rx="0" fill="#555"/>
+<rect x="39" width="32" height="20" rx="0" fill="#e8820c"/>
+<g fill="#fff" text-anchor="middle" font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="11">
+<text x="19.5" y="14">FEED</text>
+<text x="55.0" y="14">RSS</text>
+</g>
+</svg>
